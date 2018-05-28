@@ -6,3 +6,5 @@ I was working on a project with 3D volumetric images in jupyter, and I couldn't 
 Please note ImageSliceViewer3D requires numpy, matplotlib and ipywidgets.
 
 You can find the code for [ImageSliceViewer3D here](https://github.com/mohakpatel/ImageSliceViewer3D/blob/master/ImageSliceViewer3D.ipynb).
+
+![Alt Text](https://i.imgur.com/tTtwOQw.gif)
